@@ -1,0 +1,14 @@
+.idea/
+*.pyc
+env/
+venv/
+.DS_Store
+reload
+application/environ.py
+application/jsonschema/*.json
+db.sqlite
+okay_id
+
+node_modules
+
+migrations/
